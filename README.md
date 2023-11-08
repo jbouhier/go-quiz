@@ -4,7 +4,7 @@ CLI quiz game witten in Go
 
 ## Run
 
-- `go run .`
+- `go run ./src`
 
 ## Source
 
